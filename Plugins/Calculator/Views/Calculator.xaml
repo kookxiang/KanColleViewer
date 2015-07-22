@@ -240,7 +240,7 @@
 						   Margin="12,0,8,0"
 						   Grid.Row="1"
 						   VerticalAlignment="Center"
-						   Text="剩余次数" />
+						   Text="剩余经验" />
 
 				<metro:PromptTextBox Grid.Column="1"
 									 Grid.Row="1"
