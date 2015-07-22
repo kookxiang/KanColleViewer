@@ -32,10 +32,10 @@
 	<DockPanel Margin="3,0,3,3">
 		<Grid DockPanel.Dock="Top" Margin="3,0,3,0">
 			<WrapPanel>
-				<RadioButton Content="Drop log" IsChecked="{Binding SelectorShipDrop, Mode=TwoWay}" Margin="5,5,5,0"/>
-				<RadioButton Content="Ship build log" IsChecked="{Binding SelectorBuildShip, Mode=TwoWay}" Margin="5,5,5,0"/>
-				<RadioButton Content="Item build log" IsChecked="{Binding SelectorBuildItem, Mode=TwoWay}" Margin="5,5,5,0"/>
-				<RadioButton Content="Materials log" IsChecked="{Binding SelectorMaterials, Mode=TwoWay}" Margin="5,5,5,0"/>
+				<RadioButton Content="掉落" IsChecked="{Binding SelectorShipDrop, Mode=TwoWay}" Margin="5,5,5,0"/>
+				<RadioButton Content="建造" IsChecked="{Binding SelectorBuildShip, Mode=TwoWay}" Margin="5,5,5,0"/>
+				<RadioButton Content="开发" IsChecked="{Binding SelectorBuildItem, Mode=TwoWay}" Margin="5,5,5,0"/>
+				<RadioButton Content="资源" IsChecked="{Binding SelectorMaterials, Mode=TwoWay}" Margin="5,5,5,0"/>
 			</WrapPanel>
 		</Grid>
 
@@ -49,7 +49,7 @@
 								 Padding="10,4"
 								 Visibility="{Binding HasPreviousPage, Converter={StaticResource BooleanToVisibilityConverter}}"
 								 HorizontalAlignment="Left">
-				<TextBlock Text="Previous Page"
+				<TextBlock Text="上一页"
 						   Foreground="{Binding RelativeSource={RelativeSource AncestorType={x:Type metro2:CallMethodButton}}, Path=Foreground}"
 						   FontSize="13"
 						   HorizontalAlignment="Center" />
@@ -59,7 +59,7 @@
 								 Padding="10,4"
 								 Visibility="{Binding HasNextPage, Converter={StaticResource BooleanToVisibilityConverter}}"
 								 HorizontalAlignment="Left">
-				<TextBlock Text="Next Page"
+				<TextBlock Text="下一页"
 						   Foreground="{Binding RelativeSource={RelativeSource AncestorType={x:Type metro2:CallMethodButton}}, Path=Foreground}"
 						   FontSize="13"
 						   HorizontalAlignment="Center" />
