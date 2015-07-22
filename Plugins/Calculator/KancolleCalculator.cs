@@ -21,7 +21,7 @@ namespace Grabacr07.KanColleViewer.Plugins
 
 		public string ToolName
 		{
-			get { return "Calculator"; }
+			get { return "计算器"; }
 		}
 
 

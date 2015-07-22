@@ -49,7 +49,7 @@
 
 		<metro:PromptComboBox Margin="0,8"
 							  HorizontalAlignment="Left"
-							  Prompt="Select a Ship Girl"
+							  Prompt="选择一只舰娘"
 							  ItemsSource="{Binding Ships}"
 							  SelectedValuePath="Ship"
 							  SelectedValue="{Binding CurrentShip, Mode=TwoWay}"
@@ -99,7 +99,7 @@
 						   Style="{DynamicResource EmphaticTextStyleKey}"
 						   Margin="2,0,0,0"
 						   VerticalAlignment="Center"
-						   Text="Current Level" />
+						   Text="当前等级" />
 
 				<metro:PromptComboBox Margin="8"
 									  ItemsSource="{Binding Source={StaticResource EnumerableRange}}"
@@ -125,7 +125,7 @@
 						   Grid.Column="0"
 						   Grid.Row="1"
 						   VerticalAlignment="Center"
-						   Text="Target Level" />
+						   Text="目标等级" />
 
 				<metro:PromptComboBox Margin="8"
 									  ItemsSource="{Binding Source={StaticResource EnumerableRange}}"
@@ -160,7 +160,7 @@
 						   Style="{DynamicResource EmphaticTextStyleKey}"
 						   Margin="2,0,8,0"
 						   VerticalAlignment="Center"
-						   Text="Map" />
+						   Text="海域" />
 
 				<metro:PromptComboBox Margin="8"
 									  ItemsSource="{Binding SeaList}"
@@ -176,7 +176,7 @@
 						   Margin="8,0"
 						   Grid.Column="2"
 						   VerticalAlignment="Center"
-						   Text="Result" />
+						   Text="战绩" />
 
 				<metro:PromptComboBox Margin="8"
 									  ItemsSource="{Binding ResultList}"
@@ -210,7 +210,7 @@
 						   Style="{DynamicResource EmphaticTextStyleKey}"
 						   Margin="12,0,8,0"
 						   VerticalAlignment="Center"
-						   Text="Sortie Exp" />
+						   Text="海域经验" />
 
 				<metro:PromptTextBox Grid.Column="1"
 									 Text="{Binding SortieExp, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
@@ -240,7 +240,7 @@
 						   Margin="12,0,8,0"
 						   Grid.Row="1"
 						   VerticalAlignment="Center"
-						   Text="Remaining" />
+						   Text="剩余次数" />
 
 				<metro:PromptTextBox Grid.Column="1"
 									 Grid.Row="1"
@@ -257,7 +257,7 @@
 			<StackPanel Grid.Column="1"
 						Grid.RowSpan="2"
 						VerticalAlignment="Center">
-				<CheckBox Content="Flagship" IsChecked="{Binding IsFlagship}" Height="17" Margin="8,0,0,10"/>
+				<CheckBox Content="旗舰" IsChecked="{Binding IsFlagship}" Height="17" Margin="8,0,0,10"/>
 				<CheckBox Content="MVP" IsChecked="{Binding IsMVP}" Height="17" Margin="8,0,0,10"/>
 			</StackPanel>
 
