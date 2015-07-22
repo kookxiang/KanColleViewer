@@ -1,536 +1,536 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<Ships Version="1.1.6">
+<Ships Version="1.0.0">
   <Ship>
     <JP-Name>長門</JP-Name>
-    <TR-Name>Nagato</TR-Name>
+    <TR-Name>長門</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>陸奥</JP-Name>
-    <TR-Name>Mutsu</TR-Name>
+    <TR-Name>陸奥</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>伊勢</JP-Name>
-    <TR-Name>Ise</TR-Name>
+    <TR-Name>伊勢</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>日向</JP-Name>
-    <TR-Name>Hyuuga</TR-Name>
+    <TR-Name>日向</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>雪風</JP-Name>
-    <TR-Name>Yukikaze</TR-Name>
+    <TR-Name>雪風</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>赤城</JP-Name>
-    <TR-Name>Akagi</TR-Name>
+    <TR-Name>赤城</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>加賀</JP-Name>
-    <TR-Name>Kaga</TR-Name>
+    <TR-Name>加賀</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>蒼龍</JP-Name>
-    <TR-Name>Souryuu</TR-Name>
+    <TR-Name>蒼龍</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>飛龍</JP-Name>
-    <TR-Name>Hiryuu</TR-Name>
+    <TR-Name>飛龍</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>島風</JP-Name>
-    <TR-Name>Shimakaze</TR-Name>
+    <TR-Name>島風</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>吹雪</JP-Name>
-    <TR-Name>Fubuki</TR-Name>
+    <TR-Name>吹雪</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>白雪</JP-Name>
-    <TR-Name>Shirayuki</TR-Name>
+    <TR-Name>白雪</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>初雪</JP-Name>
-    <TR-Name>Hatsuyuki</TR-Name>
+    <TR-Name>初雪</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>深雪</JP-Name>
-    <TR-Name>Miyuki</TR-Name>
+    <TR-Name>深雪</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>叢雲</JP-Name>
-    <TR-Name>Murakumo</TR-Name>
+    <TR-Name>叢雲</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>磯波</JP-Name>
-    <TR-Name>Isonami</TR-Name>
+    <TR-Name>磯波</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>綾波</JP-Name>
-    <TR-Name>Ayanami</TR-Name>
+    <TR-Name>綾波</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>敷波</JP-Name>
-    <TR-Name>Shikinami</TR-Name>
+    <TR-Name>敷波</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>大井</JP-Name>
-    <TR-Name>Ooi</TR-Name>
+    <TR-Name>大井</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>北上</JP-Name>
-    <TR-Name>Kitakami</TR-Name>
+    <TR-Name>北上</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>金剛</JP-Name>
-    <TR-Name>Kongou</TR-Name>
+    <TR-Name>金剛</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>比叡</JP-Name>
-    <TR-Name>Hiei</TR-Name>
+    <TR-Name>比叡</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>榛名</JP-Name>
-    <TR-Name>Haruna</TR-Name>
+    <TR-Name>榛名</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>霧島</JP-Name>
-    <TR-Name>Kirishima</TR-Name>
+    <TR-Name>霧島</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>鳳翔</JP-Name>
-    <TR-Name>Houshou</TR-Name>
+    <TR-Name>鳳翔</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>扶桑</JP-Name>
-    <TR-Name>Fusou</TR-Name>
+    <TR-Name>扶桑</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>山城</JP-Name>
-    <TR-Name>Yamashiro</TR-Name>
+    <TR-Name>山城</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>天龍</JP-Name>
-    <TR-Name>Tenryuu</TR-Name>
+    <TR-Name>天龍</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>龍田</JP-Name>
-    <TR-Name>Tatsuta</TR-Name>
+    <TR-Name>龍田</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>龍驤</JP-Name>
-    <TR-Name>Ryuujou</TR-Name>
+    <TR-Name>龍驤</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>睦月</JP-Name>
-    <TR-Name>Mutsuki</TR-Name>
+    <TR-Name>睦月</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>如月</JP-Name>
-    <TR-Name>Kisaragi</TR-Name>
+    <TR-Name>如月</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>皐月</JP-Name>
-    <TR-Name>Satsuki</TR-Name>
+    <TR-Name>皐月</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>文月</JP-Name>
-    <TR-Name>Fumizuki</TR-Name>
+    <TR-Name>文月</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>長月</JP-Name>
-    <TR-Name>Nagatsuki</TR-Name>
+    <TR-Name>長月</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>菊月</JP-Name>
-    <TR-Name>Kikuzuki</TR-Name>
+    <TR-Name>菊月</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>三日月</JP-Name>
-    <TR-Name>Mikazuki</TR-Name>
+    <TR-Name>三日月</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>望月</JP-Name>
-    <TR-Name>Mochizuki</TR-Name>
+    <TR-Name>望月</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>球磨</JP-Name>
-    <TR-Name>Kuma</TR-Name>
+    <TR-Name>球磨</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>多摩</JP-Name>
-    <TR-Name>Tama</TR-Name>
+    <TR-Name>多摩</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>木曾</JP-Name>
-    <TR-Name>Kiso</TR-Name>
+    <TR-Name>木曾</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>長良</JP-Name>
-    <TR-Name>Nagara</TR-Name>
+    <TR-Name>長良</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>五十鈴</JP-Name>
-    <TR-Name>Isuzu</TR-Name>
+    <TR-Name>五十鈴</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>名取</JP-Name>
-    <TR-Name>Natori</TR-Name>
+    <TR-Name>名取</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>由良</JP-Name>
-    <TR-Name>Yura</TR-Name>
+    <TR-Name>由良</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>川内</JP-Name>
-    <TR-Name>Sendai</TR-Name>
+    <TR-Name>川内</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>神通</JP-Name>
-    <TR-Name>Jintsuu</TR-Name>
+    <TR-Name>神通</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>那珂</JP-Name>
-    <TR-Name>Naka</TR-Name>
+    <TR-Name>那珂</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>千歳</JP-Name>
-    <TR-Name>Chitose</TR-Name>
+    <TR-Name>千歳</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>千歳甲</JP-Name>
-    <TR-Name>Chitose A</TR-Name>
+    <TR-Name>千歳甲</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>千歳航</JP-Name>
-    <TR-Name>Chitose CVL</TR-Name>
+    <TR-Name>千歳航</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>千代田</JP-Name>
-    <TR-Name>Chiyoda</TR-Name>
+    <TR-Name>千代田</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>千代田甲</JP-Name>
-    <TR-Name>Chiyoda A</TR-Name>
+    <TR-Name>千代田甲</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>千代田航</JP-Name>
-    <TR-Name>Chiyoda CVL</TR-Name>
+    <TR-Name>千代田航</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>最上</JP-Name>
-    <TR-Name>Mogami</TR-Name>
+    <TR-Name>最上</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>古鷹</JP-Name>
-    <TR-Name>Furutaka</TR-Name>
+    <TR-Name>古鷹</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>加古</JP-Name>
-    <TR-Name>Kako</TR-Name>
+    <TR-Name>加古</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>青葉</JP-Name>
-    <TR-Name>Aoba</TR-Name>
+    <TR-Name>青葉</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>妙高</JP-Name>
-    <TR-Name>Myoukou</TR-Name>
+    <TR-Name>妙高</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>那智</JP-Name>
-    <TR-Name>Nachi</TR-Name>
+    <TR-Name>那智</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>足柄</JP-Name>
-    <TR-Name>Ashigara</TR-Name>
+    <TR-Name>足柄</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>羽黒</JP-Name>
-    <TR-Name>Haguro</TR-Name>
+    <TR-Name>羽黒</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>高雄</JP-Name>
-    <TR-Name>Takao</TR-Name>
+    <TR-Name>高雄</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>愛宕</JP-Name>
-    <TR-Name>Atago</TR-Name>
+    <TR-Name>愛宕</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>摩耶</JP-Name>
-    <TR-Name>Maya</TR-Name>
+    <TR-Name>摩耶</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>鳥海</JP-Name>
-    <TR-Name>Choukai</TR-Name>
+    <TR-Name>鳥海</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>利根</JP-Name>
-    <TR-Name>Tone</TR-Name>
+    <TR-Name>利根</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>筑摩</JP-Name>
-    <TR-Name>Chikuma</TR-Name>
+    <TR-Name>筑摩</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>飛鷹</JP-Name>
-    <TR-Name>Hiyou</TR-Name>
+    <TR-Name>飛鷹</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>隼鷹</JP-Name>
-    <TR-Name>Junyou</TR-Name>
+    <TR-Name>隼鷹</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>朧</JP-Name>
-    <TR-Name>Oboro</TR-Name>
+    <TR-Name>朧</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>曙</JP-Name>
-    <TR-Name>Akebono</TR-Name>
+    <TR-Name>曙</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>漣</JP-Name>
-    <TR-Name>Sazanami</TR-Name>
+    <TR-Name>漣</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>潮</JP-Name>
-    <TR-Name>Ushio</TR-Name>
+    <TR-Name>潮</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>暁</JP-Name>
-    <TR-Name>Akatsuki</TR-Name>
+    <TR-Name>暁</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>響</JP-Name>
-    <TR-Name>Hibiki</TR-Name>
+    <TR-Name>響</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>Верный</JP-Name>
-    <TR-Name>Vérnyj</TR-Name>
+    <TR-Name>Верный</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>雷</JP-Name>
-    <TR-Name>Ikazuchi</TR-Name>
+    <TR-Name>雷</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>電</JP-Name>
-    <TR-Name>Inazuma</TR-Name>
+    <TR-Name>電</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>初春</JP-Name>
-    <TR-Name>Hatsuharu</TR-Name>
+    <TR-Name>初春</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>子日</JP-Name>
-    <TR-Name>Nenohi</TR-Name>
+    <TR-Name>子日</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>若葉</JP-Name>
-    <TR-Name>Wakaba</TR-Name>
+    <TR-Name>若葉</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>初霜</JP-Name>
-    <TR-Name>Hatsushimo</TR-Name>
+    <TR-Name>初霜</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>白露</JP-Name>
-    <TR-Name>Shiratsuyu</TR-Name>
+    <TR-Name>白露</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>時雨</JP-Name>
-    <TR-Name>Shigure</TR-Name>
+    <TR-Name>時雨</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>村雨</JP-Name>
-    <TR-Name>Murasame</TR-Name>
+    <TR-Name>村雨</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>夕立</JP-Name>
-    <TR-Name>Yuudachi</TR-Name>
+    <TR-Name>夕立</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>五月雨</JP-Name>
-    <TR-Name>Samidare</TR-Name>
+    <TR-Name>五月雨</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>涼風</JP-Name>
-    <TR-Name>Suzukaze</TR-Name>
+    <TR-Name>涼風</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>朝潮</JP-Name>
-    <TR-Name>Asashio</TR-Name>
+    <TR-Name>朝潮</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>大潮</JP-Name>
-    <TR-Name>Ooshio</TR-Name>
+    <TR-Name>大潮</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>満潮</JP-Name>
-    <TR-Name>Michishio</TR-Name>
+    <TR-Name>満潮</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>荒潮</JP-Name>
-    <TR-Name>Arashio</TR-Name>
+    <TR-Name>荒潮</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>霰</JP-Name>
-    <TR-Name>Arare</TR-Name>
+    <TR-Name>霰</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>霞</JP-Name>
-    <TR-Name>Kasumi</TR-Name>
+    <TR-Name>霞</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>陽炎</JP-Name>
-    <TR-Name>Kagerou</TR-Name>
+    <TR-Name>陽炎</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>不知火</JP-Name>
-    <TR-Name>Shiranui</TR-Name>
+    <TR-Name>不知火</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>黒潮</JP-Name>
-    <TR-Name>Kuroshio</TR-Name>
+    <TR-Name>黒潮</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>祥鳳</JP-Name>
-    <TR-Name>Shouhou</TR-Name>
+    <TR-Name>祥鳳</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>翔鶴</JP-Name>
-    <TR-Name>Shoukaku</TR-Name>
+    <TR-Name>翔鶴</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>瑞鶴</JP-Name>
-    <TR-Name>Zuikaku</TR-Name>
+    <TR-Name>瑞鶴</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>鬼怒</JP-Name>
-    <TR-Name>Kinu</TR-Name>
+    <TR-Name>鬼怒</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>阿武隈</JP-Name>
-    <TR-Name>Abukuma</TR-Name>
+    <TR-Name>阿武隈</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>夕張</JP-Name>
-    <TR-Name>Yuubari</TR-Name>
+    <TR-Name>夕張</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>瑞鳳</JP-Name>
-    <TR-Name>Zuihou</TR-Name>
+    <TR-Name>瑞鳳</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>三隈</JP-Name>
-    <TR-Name>Mikuma</TR-Name>
+    <TR-Name>三隈</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>初風</JP-Name>
-    <TR-Name>Hatsukaze</TR-Name>
+    <TR-Name>初風</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>舞風</JP-Name>
-    <TR-Name>Maikaze</TR-Name>
+    <TR-Name>舞風</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>衣笠</JP-Name>
-    <TR-Name>Kinugasa</TR-Name>
+    <TR-Name>衣笠</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>伊19</JP-Name>
-    <TR-Name>I-19</TR-Name>
+    <TR-Name>伊19</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>鈴谷</JP-Name>
-    <TR-Name>Suzuya</TR-Name>
+    <TR-Name>鈴谷</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>熊野</JP-Name>
-    <TR-Name>Kumano</TR-Name>
+    <TR-Name>熊野</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>伊168</JP-Name>
-    <TR-Name>I-168</TR-Name>
+    <TR-Name>伊168</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>伊58</JP-Name>
-    <TR-Name>I-58</TR-Name>
+    <TR-Name>伊58</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>伊8</JP-Name>
-    <TR-Name>I-8</TR-Name>
+    <TR-Name>伊8</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>大和</JP-Name>
-    <TR-Name>Yamato</TR-Name>
+    <TR-Name>大和</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>秋雲</JP-Name>
-    <TR-Name>Akigumo</TR-Name>
+    <TR-Name>秋雲</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>夕雲</JP-Name>
-    <TR-Name>Yuugumo</TR-Name>
+    <TR-Name>夕雲</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>巻雲</JP-Name>
-    <TR-Name>Makigumo</TR-Name>
+    <TR-Name>巻雲</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>長波</JP-Name>
-    <TR-Name>Naganami</TR-Name>
+    <TR-Name>長波</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>阿賀野</JP-Name>
-    <TR-Name>Agano</TR-Name>
+    <TR-Name>阿賀野</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>能代</JP-Name>
-    <TR-Name>Noshiro</TR-Name>
+    <TR-Name>能代</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>矢矧</JP-Name>
-    <TR-Name>Yahagi</TR-Name>
+    <TR-Name>矢矧</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>武蔵</JP-Name>
-    <TR-Name>Musashi</TR-Name>
+    <TR-Name>武蔵</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>大鳳</JP-Name>
-    <TR-Name>Taihou</TR-Name>
+    <TR-Name>大鳳</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>伊401</JP-Name>
-    <TR-Name>I-401</TR-Name>
+    <TR-Name>伊401</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>あきつ丸</JP-Name>
-    <TR-Name>Akitsu Maru</TR-Name>
+    <TR-Name>あきつ丸</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>まるゆ</JP-Name>
-    <TR-Name>Maruyu</TR-Name>
+    <TR-Name>まるゆ</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>弥生</JP-Name>
-    <TR-Name>Yayoi</TR-Name>
+    <TR-Name>弥生</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>卯月</JP-Name>
-    <TR-Name>Uzuki</TR-Name>
+    <TR-Name>卯月</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>イオナ</JP-Name>
-    <TR-Name>IONA</TR-Name>
+    <TR-Name>イオナ</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>タカオ</JP-Name>
-    <TR-Name>TAKAO</TR-Name>
+    <TR-Name>タカオ</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>ハルナ</JP-Name>
-    <TR-Name>HARUNA</TR-Name>
+    <TR-Name>ハルナ</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>Bismarck</JP-Name>
@@ -546,441 +546,417 @@
   </Ship>
   <Ship>
     <JP-Name>浜風</JP-Name>
-    <TR-Name>Hamakaze</TR-Name>
+    <TR-Name>浜風</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>天津風</JP-Name>
-    <TR-Name>Amatsukaze</TR-Name>
+    <TR-Name>天津風</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>谷風</JP-Name>
-    <TR-Name>Tanikaze</TR-Name>
+    <TR-Name>谷風</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>明石</JP-Name>
-    <TR-Name>Akashi</TR-Name>
+    <TR-Name>明石</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>酒匂</JP-Name>
-    <TR-Name>Sakawa</TR-Name>
+    <TR-Name>酒匂</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>大鯨</JP-Name>
-    <TR-Name>Taigei</TR-Name>
+    <TR-Name>大鯨</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>龍鳳</JP-Name>
-    <TR-Name>Ryuuhou</TR-Name>
+    <TR-Name>龍鳳</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>浦風</JP-Name>
-    <TR-Name>Urakaze</TR-Name>
+    <TR-Name>浦風</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>雲龍</JP-Name>
-    <TR-Name>Unryuu</TR-Name>
+    <TR-Name>雲龍</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>天城</JP-Name>
-    <TR-Name>Amagi</TR-Name>
+    <TR-Name>天城</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>葛城</JP-Name>
-    <TR-Name>Katsuragi</TR-Name>
+    <TR-Name>葛城</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>信濃</JP-Name>
-    <TR-Name>Shinano</TR-Name>
+    <TR-Name>信濃</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>大淀</JP-Name>
-    <TR-Name>Ooyodo</TR-Name>
+    <TR-Name>大淀</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>香取</JP-Name>
-    <TR-Name>Katori</TR-Name>
+    <TR-Name>香取</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>鹿島</JP-Name>
-    <TR-Name>Kashima</TR-Name>
+    <TR-Name>鹿島</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>香椎</JP-Name>
-    <TR-Name>Kashii</TR-Name>
+    <TR-Name>香椎</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>橿原</JP-Name>
-    <TR-Name>Kashihara</TR-Name>
+    <TR-Name>橿原</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>大鷹</JP-Name>
-    <TR-Name>Taiyou</TR-Name>
+    <TR-Name>大鷹</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>冲鷹</JP-Name>
-    <TR-Name>Chuuyou</TR-Name>
+    <TR-Name>冲鷹</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>雲鷹</JP-Name>
-    <TR-Name>Unyou</TR-Name>
+    <TR-Name>雲鷹</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>水無月</JP-Name>
-    <TR-Name>Minazuki</TR-Name>
+    <TR-Name>水無月</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>夕月</JP-Name>
-    <TR-Name>Yuuzuki</TR-Name>
+    <TR-Name>夕月</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>東雲</JP-Name>
-    <TR-Name>Shinonome</TR-Name>
+    <TR-Name>東雲</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>薄雲</JP-Name>
-    <TR-Name>Usugumo</TR-Name>
+    <TR-Name>薄雲</TR-Name>
   </Ship><Ship>
     <JP-Name>白雲</JP-Name>
-    <TR-Name>Shirakumo</TR-Name>
+    <TR-Name>白雲</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>浦波</JP-Name>
-    <TR-Name>Uranami</TR-Name>
+    <TR-Name>浦波</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>朝霧</JP-Name>
-    <TR-Name>Asagiri</TR-Name>
+    <TR-Name>朝霧</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>夕霧</JP-Name>
-    <TR-Name>Yuugiri</TR-Name>
+    <TR-Name>夕霧</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>天霧</JP-Name>
-    <TR-Name>Amagiri</TR-Name>
+    <TR-Name>天霧</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>狭霧</JP-Name>
-    <TR-Name>Sagiri</TR-Name>
+    <TR-Name>狭霧</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>有明</JP-Name>
-    <TR-Name>Ariake</TR-Name>
+    <TR-Name>有明</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>夕暮</JP-Name>
-    <TR-Name>Yuugure</TR-Name>
+    <TR-Name>夕暮</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>春雨</JP-Name>
-    <TR-Name>Harusame</TR-Name>
+    <TR-Name>春雨</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>山風</JP-Name>
-    <TR-Name>Yamakaze</TR-Name>
+    <TR-Name>山風</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>江風</JP-Name>
-    <TR-Name>Kawakaze</TR-Name>
+    <TR-Name>江風</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>海風</JP-Name>
-    <TR-Name>Umikaze</TR-Name>
+    <TR-Name>海風</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>夏雲</JP-Name>
-    <TR-Name>Natsugumo</TR-Name>
+    <TR-Name>夏雲</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>山雲</JP-Name>
-    <TR-Name>Yamagumo</TR-Name>
+    <TR-Name>山雲</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>峯雲</JP-Name>
-    <TR-Name>Minegumo</TR-Name>
+    <TR-Name>峯雲</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>朝雲</JP-Name>
-    <TR-Name>Asagumo</TR-Name>
+    <TR-Name>朝雲</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>親潮</JP-Name>
-    <TR-Name>Oyashio</TR-Name>
+    <TR-Name>親潮</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>早潮</JP-Name>
-    <TR-Name>Hayashio</TR-Name>
+    <TR-Name>早潮</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>夏潮</JP-Name>
-    <TR-Name>Natsushio</TR-Name>
+    <TR-Name>夏潮</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>時津風</JP-Name>
-    <TR-Name>Tokitsukaze</TR-Name>
+    <TR-Name>時津風</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>野分</JP-Name>
-    <TR-Name>Nowaki</TR-Name>
+    <TR-Name>野分</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>磯風</JP-Name>
-    <TR-Name>Isokaze</TR-Name>
+    <TR-Name>磯風</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>嵐</JP-Name>
-    <TR-Name>Arashi</TR-Name>
+    <TR-Name>嵐</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>萩風</JP-Name>
-    <TR-Name>Hagikaze</TR-Name>
+    <TR-Name>萩風</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>風雲</JP-Name>
-    <TR-Name>Kazagumo</TR-Name>
+    <TR-Name>風雲</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>巻波</JP-Name>
-    <TR-Name>Makinami</TR-Name>
+    <TR-Name>巻波</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>高波</JP-Name>
-    <TR-Name>Takanami</TR-Name>
+    <TR-Name>高波</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>大波</JP-Name>
-    <TR-Name>Oonami</TR-Name>
+    <TR-Name>大波</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>清波</JP-Name>
-    <TR-Name>Kiyonami</TR-Name>
+    <TR-Name>清波</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>玉波</JP-Name>
-    <TR-Name>Tamanami</TR-Name>
+    <TR-Name>玉波</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>涼波</JP-Name>
-    <TR-Name>Suzunami</TR-Name>
+    <TR-Name>涼波</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>藤波</JP-Name>
-    <TR-Name>Fujinami</TR-Name>
+    <TR-Name>藤波</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>早波</JP-Name>
-    <TR-Name>Hayanami</TR-Name>
+    <TR-Name>早波</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>濱波</JP-Name>
-    <TR-Name>Hamanami</TR-Name>
+    <TR-Name>濱波</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>沖波</JP-Name>
-    <TR-Name>Okinami</TR-Name>
+    <TR-Name>沖波</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>岸波</JP-Name>
-    <TR-Name>Kishinami</TR-Name>
+    <TR-Name>岸波</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>朝霜</JP-Name>
-    <TR-Name>Asashimo</TR-Name>
+    <TR-Name>朝霜</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>早霜</JP-Name>
-    <TR-Name>Hayashimo</TR-Name>
+    <TR-Name>早霜</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>秋霜</JP-Name>
-    <TR-Name>Akishimo</TR-Name>
+    <TR-Name>秋霜</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>清霜</JP-Name>
-    <TR-Name>Kiyoshimo</TR-Name>
+    <TR-Name>清霜</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>松</JP-Name>
-    <TR-Name>Hinoki</TR-Name>
+    <TR-Name>松</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>楓</JP-Name>
-    <TR-Name>Kaede</TR-Name>
+    <TR-Name>楓</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>欅</JP-Name>
-    <TR-Name>Keyaki</TR-Name>
+    <TR-Name>欅</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>橘</JP-Name>
-    <TR-Name>Tachibana</TR-Name>
+    <TR-Name>橘</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>蔦</JP-Name>
-    <TR-Name>Tsuta</TR-Name>
+    <TR-Name>蔦</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>萩</JP-Name>
-    <TR-Name>Hagi</TR-Name>
+    <TR-Name>萩</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>菫</JP-Name>
-    <TR-Name>Sumire</TR-Name>
+    <TR-Name>菫</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>楠</JP-Name>
-    <TR-Name>Kusunoki</TR-Name>
+    <TR-Name>楠</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>初櫻</JP-Name>
-    <TR-Name>Hatsuzakura</TR-Name>
+    <TR-Name>初櫻</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>楡</JP-Name>
-    <TR-Name>Nire</TR-Name>
+    <TR-Name>楡</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>梨</JP-Name>
-    <TR-Name>Nashi</TR-Name>
+    <TR-Name>梨</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>椎</JP-Name>
-    <TR-Name>Shii</TR-Name>
+    <TR-Name>椎</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>榎</JP-Name>
-    <TR-Name>Enoki</TR-Name>
+    <TR-Name>榎</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>雄竹</JP-Name>
-    <TR-Name>Odake</TR-Name>
+    <TR-Name>雄竹</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>初梅</JP-Name>
-    <TR-Name>Hatsuume</TR-Name>
+    <TR-Name>初梅</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>秋月</JP-Name>
-    <TR-Name>Akizuki</TR-Name>
+    <TR-Name>秋月</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>照月</JP-Name>
-    <TR-Name>Teruzuki</TR-Name>
+    <TR-Name>照月</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>涼月</JP-Name>
-    <TR-Name>Suzutsuki</TR-Name>
+    <TR-Name>涼月</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>初月</JP-Name>
-    <TR-Name>Hatsuzuki</TR-Name>
+    <TR-Name>初月</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>新月</JP-Name>
-    <TR-Name>Niizuki</TR-Name>
+    <TR-Name>新月</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>若月</JP-Name>
-    <TR-Name>Wakatsuki</TR-Name>
+    <TR-Name>若月</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>霜月</JP-Name>
-    <TR-Name>Shimotsuki</TR-Name>
+    <TR-Name>霜月</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>冬月</JP-Name>
-    <TR-Name>Fuyutsuki</TR-Name>
+    <TR-Name>冬月</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>春月</JP-Name>
-    <TR-Name>Harutsuki</TR-Name>
+    <TR-Name>春月</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>宵月</JP-Name>
-    <TR-Name>Yoizuki</TR-Name>
+    <TR-Name>宵月</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>夏月</JP-Name>
-    <TR-Name>Natsuzuki</TR-Name>
+    <TR-Name>夏月</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>満月</JP-Name>
-    <TR-Name>Michitsuki</TR-Name>
+    <TR-Name>満月</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>花月</JP-Name>
-    <TR-Name>Hanazuki</TR-Name>
+    <TR-Name>花月</TR-Name>
   </Ship>
   <Ship>
     <JP-Name>Prinz Eugen</JP-Name>
     <TR-Name>Prinz Eugen</TR-Name>
   </Ship>
-  <Ship>
-    <JP-Name>U-511</JP-Name>
-    <TR-Name>U-511</TR-Name>
-  </Ship>
-  <Ship>
-    <JP-Name>呂500</JP-Name>
-    <TR-Name>Ro-500</TR-Name>
-  </Ship>
-  <Ship>
-    <JP-Name>秋津洲</JP-Name>
-    <TR-Name>Akitsushima</TR-Name>
-  </Ship>
-  <Ship>
-    <JP-Name>Littorio</JP-Name>
-    <TR-Name>Littorio</TR-Name>
-  </Ship>
-  <Ship>
-    <JP-Name>Italia</JP-Name>
-    <TR-Name>Italia</TR-Name>
-  </Ship>
-  <Ship>
-    <JP-Name>Roma</JP-Name>
-    <TR-Name>Roma</TR-Name>
+  <Ship mode="suffix">
+    <JP-Name>改</JP-Name>
+    <TR-Name>改</TR-Name>
   </Ship>
   <Ship mode="suffix">
-	<JP-Name>改</JP-Name>
-    <TR-Name> Kai</TR-Name>
+    <JP-Name> zwei</JP-Name>
+    <TR-Name> zwei</TR-Name>
   </Ship>
   <Ship mode="suffix">
-	<JP-Name> zwei</JP-Name>
-    <TR-Name> Zwei</TR-Name>
+    <JP-Name> drei</JP-Name>
+    <TR-Name> drei</TR-Name>
   </Ship>
   <Ship mode="suffix">
-	<JP-Name> drei</JP-Name>
-    <TR-Name> Drei</TR-Name>
+    <JP-Name>二</JP-Name>
+    <TR-Name>二</TR-Name>
   </Ship>
   <Ship mode="suffix">
-	<JP-Name>二</JP-Name>
-    <TR-Name>2</TR-Name>
+    <JP-Name>三</JP-Name>
+    <TR-Name>三</TR-Name>
   </Ship>
   <Ship mode="suffix">
-	<JP-Name>三</JP-Name>
-    <TR-Name>3</TR-Name>
+    <JP-Name>四</JP-Name>
+    <TR-Name>四</TR-Name>
   </Ship>
   <Ship mode="suffix">
-	<JP-Name>四</JP-Name>
-    <TR-Name>4</TR-Name>
+    <JP-Name>五</JP-Name>
+    <TR-Name>五</TR-Name>
   </Ship>
   <Ship mode="suffix">
-	<JP-Name>五</JP-Name>
-    <TR-Name>5</TR-Name>
+    <JP-Name>六</JP-Name>
+    <TR-Name>六</TR-Name>
   </Ship>
   <Ship mode="suffix">
-	<JP-Name>六</JP-Name>
-    <TR-Name>6</TR-Name>
+    <JP-Name>七</JP-Name>
+    <TR-Name>七</TR-Name>
   </Ship>
   <Ship mode="suffix">
-	<JP-Name>七</JP-Name>
-    <TR-Name>7</TR-Name>
+    <JP-Name>八</JP-Name>
+    <TR-Name>八</TR-Name>
   </Ship>
   <Ship mode="suffix">
-	<JP-Name>八</JP-Name>
-    <TR-Name>8</TR-Name>
-  </Ship>
-  <Ship mode="suffix">
-	<JP-Name>九</JP-Name>
-    <TR-Name>9</TR-Name>
+    <JP-Name>九</JP-Name>
+    <TR-Name>九</TR-Name>
   </Ship>
 </Ships>
