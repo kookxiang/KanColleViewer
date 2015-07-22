@@ -276,7 +276,57 @@ namespace Grabacr07.KanColleViewer.Plugins.ViewModels
 	                this.TotalPage = (lines.Count() - 1)/20 + 1;
 
 	                // ReSharper disable once PossibleMultipleEnumeration
-                    lines.Take(1).First().Split(',').ToList().ForEach((col => items.Columns.Add(col)));
+                    lines.Take(1).First().Split(',').ToList().ForEach((col => {
+                        switch (col) {
+                            default:
+                                items.Columns.Add(col);
+                                break;
+                            case "Date":
+                                items.Columns.Add("时间");
+                                break;
+                            case "Result":
+                                items.Columns.Add("开发 / 掉落");
+                                break;
+                            case "Secretary":
+                                items.Columns.Add("秘书舰");
+                                break;
+                            case "Secretary level":
+                                items.Columns.Add("等级");
+                                break;
+                            case "Fuel":
+                                items.Columns.Add("油");
+                                break;
+                            case "Ammunition":
+                            case "Ammo":
+                                items.Columns.Add("弹");
+                                break;
+                            case "Steel":
+                                items.Columns.Add("钢");
+                                break;
+                            case "Bauxite":
+                                items.Columns.Add("铝");
+                                break;
+                            case "DevKits":
+                            case "# of Build Materials":
+                                items.Columns.Add("资材");
+                                break;
+                            case "Operation":
+                                items.Columns.Add("地图");
+                                break;
+                            case "Enemy Fleet":
+                                items.Columns.Add("敌军");
+                                break;
+                            case "Rank":
+                                items.Columns.Add("战绩");
+                                break;
+                            case "Buckets":
+                                items.Columns.Add("桶");
+                                break;
+                            case "Flamethrowers":
+                                items.Columns.Add("火");
+                                break;
+                        }
+                    }));
 
 	                // ReSharper disable once PossibleMultipleEnumeration
 					lines.Skip(1).Reverse().Skip((this.CurrentPage - 1) * this.logPerPage).Take(this.logPerPage).ToList().ForEach(line =>
