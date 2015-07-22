@@ -672,6 +672,8 @@
     <PostBuildEvent>
 xcopy /Y /E /I "$(SolutionDir)resources\Translations" "$(TargetDir)Translations"
 xcopy /Y /E /I "$(SolutionDir)resources\Sounds" "$(TargetDir)Sounds"
+xcopy /Y /E /I "$(SolutionDir)resources\BattleInfoPluginData" "$(TargetDir)BattleInfoPluginData"
+xcopy /Y /E /I "$(SolutionDir)resources\lib" "$(TargetDir)lib"
 xcopy /Y /E /I "$(SolutionDir)resources\Plugins" "$(TargetDir)Plugins"</PostBuildEvent>
   </PropertyGroup>
   <PropertyGroup>
@@ -680,7 +682,7 @@ rd /S /Q "$(TargetDir)Sounds"
 rd /S /Q "$(TargetDir)Plugins"
 md "$(TargetDir)Translations"
 md "$(TargetDir)Plugins"
-md "$(TargetDir)Plugins/Disabled"
+md "$(TargetDir)Plugins\Disabled"
 md "$(TargetDir)Sounds"</PreBuildEvent>
   </PropertyGroup>
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

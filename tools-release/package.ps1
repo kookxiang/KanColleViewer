@@ -33,7 +33,6 @@
 			Copy-StrictedFilterFileWithDirectoryStructure -Path $(Join-Path $(Join-Path $bin $target) 'Translations') -Destination $target -Targets '*'
 			
 			# move *dll to lib folder
-			New-Item -ItemType directory -Path $(Join-Path $target 'lib')
 			Get-ChildItem -Path $target -Filter '*.dll' | % {
 				move-item $_.FullName -Destination $(Join-Path $(Join-Path $target 'lib') $_) -Force
 			}
@@ -49,7 +48,6 @@
             if ((Test-Path $versionSource) -and (Test-Path $target))
             {
                 $version = (Get-ChildItem $versionSource).VersionInfo
-                $result  = $result + ' ver.{0}.{1}.{2}r{3}' -f $version.ProductMajorPart, $version.ProductMinorPart, $version.ProductBuildPart, $version.ProductPrivatePart
  
                 Rename-Item -NewName $result -Path $target
                 New-ZipCompression -source $(Join-Path $(Get-Location) $result) -destination $(Join-Path $(Get-Location).Path ('./' + $result + '.zip'))
