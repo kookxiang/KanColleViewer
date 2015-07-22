@@ -134,7 +134,7 @@
   <PropertyGroup>
     <PostBuildEvent>mkdir "$(SolutionDir)Grabacr07.KanColleViewer\bin\$(ConfigurationName)\Plugins"
 xcopy /Y "$(TargetDir)*.*" "$(SolutionDir)Grabacr07.KanColleViewer\bin\$(ConfigurationName)"
-move "$(SolutionDir)Grabacr07.KanColleViewer\bin\$(ConfigurationName)\$(TargetName).*" "$(SolutionDir)Grabacr07.KanColleViewer\bin\$(ConfigurationName)\Plugins"</PostBuildEvent>
+move "$(SolutionDir)Grabacr07.KanColleViewer\bin\$(ConfigurationName)\$(TargetName).*" "$(SolutionDir)Grabacr07.KanColleViewer\bin\$(ConfigurationName)\Plugins\Disabled"</PostBuildEvent>
   </PropertyGroup>
   <Import Project="$(SolutionDir)\.nuget\NuGet.targets" Condition="Exists('$(SolutionDir)\.nuget\NuGet.targets')" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
